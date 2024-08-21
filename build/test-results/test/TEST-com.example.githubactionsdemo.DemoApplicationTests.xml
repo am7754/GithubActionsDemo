@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.githubactionsdemo.DemoApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-21T13:18:37" hostname="17L10-AM7754-2" time="0.899">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.githubactionsdemo.DemoApplicationTests" time="0.899"/>
+  <system-out><![CDATA[18:48:36.040 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.githubactionsdemo.DemoApplicationTests]: DemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+18:48:36.166 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.githubactionsdemo.GithubActionsDemoApp for test class com.example.githubactionsdemo.DemoApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.2)
+
+2024-08-21T18:48:36.606+05:30  INFO 17284 --- [GithubActionsDemo] [    Test worker] c.e.g.DemoApplicationTests               : Starting DemoApplicationTests using Java 17.0.11 with PID 17284 (started by AM7754 in C:\Users\am7754\Documents\Ashfaq\Project\Nanda\DevOps_Activity\Github_Actions\GithubActionsDemo\GithubActionsDemo)
+2024-08-21T18:48:36.608+05:30  INFO 17284 --- [GithubActionsDemo] [    Test worker] c.e.g.DemoApplicationTests               : No active profile set, falling back to 1 default profile: "default"
+2024-08-21T18:48:37.711+05:30  INFO 17284 --- [GithubActionsDemo] [    Test worker] c.e.g.DemoApplicationTests               : Started DemoApplicationTests in 1.37 seconds (process running for 2.693)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
